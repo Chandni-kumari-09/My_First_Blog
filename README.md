@@ -8,7 +8,7 @@ This repository contains my professional resume and a collection of technical bl
 
 ### 🚀 Live Links
 * *View My Resume*: [https://chandni-kumari-09.github.io/First-Project---Resume]
-* *View My Blogs*: [https://chandni-kumari-09.github.io/My_All_Blogs]
+* *View My Blogs*: [https://chandni-kumari-09.github.io/My_First_Blog]
 
 ### 🚀 Github Repository Links
 * *My Resume*: [https://github.com/Chandni-kumari-09/First-Project---Resume]
